@@ -1,0 +1,8 @@
+{
+  "name": "Kashish Hardware Enterprise",
+  "description": "Enterprise-grade inventory and price management system with secure auth, AI insights, and role-based access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
